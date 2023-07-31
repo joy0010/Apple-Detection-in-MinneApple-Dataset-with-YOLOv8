@@ -1,0 +1,1 @@
+# Apple-Detection-in-MinneApple-Dataset-with-YOLOv8
