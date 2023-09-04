@@ -5,9 +5,10 @@ In modern agricultural practices, advanced machine learning techniques play a pi
 
 ## Files Structure
 - Code
-	- MinneApple_Original.ipynb: train and evaluate YOLOv8 model
-	- MinneApple_Small.ipynb: train and evaluate STL model
-	- MinneApple_Ground.ipynb: train and evaluate MTL model
+	- MinneApple\_Original.ipynb: train and evaluate YOLOv8 model
+	- MinneApple\_Small.ipynb: train and evaluate STL model
+	- MinneApple\_Ground.ipynb: train and evaluate MTL model
+	- Results.ipynb: evaluate final best models
 - Model
 	- On the original dataset:
 		- Original\_original\_best.pt
