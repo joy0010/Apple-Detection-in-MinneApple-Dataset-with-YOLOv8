@@ -21,5 +21,5 @@ In modern agricultural practices, advanced machine learning techniques play a pi
 		- Ground\_augmented\_best.pt
 
 ## Results
-![Apple-Detection-in-MinneApple-Dataset-with-YOLOv8/img/results.png](Apple-Detection-in-MinneApple-Dataset-with-YOLOv8/img/results.png)
+![results](img/results.png)
 
